@@ -1,5 +1,5 @@
 # My-Bank
-"My Bank" Project create using JDBC. Language:- Java And For Database Connection:- SQL
+"My Bank" Project create using JDBC. Language:- Java And For Database Connection:- SQL, SQL File:- bank.sql
 
 Home page
 ![Screenshot 2024-08-09 155928](https://github.com/user-attachments/assets/7c9c9943-21ed-48b3-9860-a41133e5a28e)
