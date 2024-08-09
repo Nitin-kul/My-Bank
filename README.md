@@ -2,48 +2,48 @@
 "My Bank" Project create using JDBC. Language:- Java And For Database Connection:- SQL
 
 Home page
-![Screenshot 2024-08-09 155928](https://github.com/user-attachments/assets/58282886-e9af-4442-8e5d-afccf39abadd)
+![Screenshot 2024-08-09 155928](https://github.com/user-attachments/assets/7c9c9943-21ed-48b3-9860-a41133e5a28e)
 
 Login Page
-![Screenshot 2024-08-09 155946](https://github.com/user-attachments/assets/6ed80aec-1eee-40c4-b89e-5ed9b70a6063)
+![Screenshot 2024-08-09 155946](https://github.com/user-attachments/assets/c1306e75-765d-4269-bcae-9248c8e7c2c8)
 
 Create User Page
-![Screenshot 2024-08-09 155956](https://github.com/user-attachments/assets/ad2c3c7c-1a3e-4dd7-ae9b-5ef56e853528)
+![Screenshot 2024-08-09 155956](https://github.com/user-attachments/assets/be6c9c15-f76d-439b-a706-01b4a69deca4)
 
 # When Login As A Worker
-![Screenshot 2024-08-09 160641](https://github.com/user-attachments/assets/5316e39d-f8aa-48ce-9a29-7e7b3ff1b0e5)
+![Screenshot 2024-08-09 160520](https://github.com/user-attachments/assets/721ac209-7a59-4780-ab4c-248877e0fcb9)
 
 # You Have These Some Panels
 1. A/c Details
-![Screenshot 2024-08-09 160053](https://github.com/user-attachments/assets/75034656-71b8-42ce-9338-a79b3c4109fb)
+![Screenshot 2024-08-09 160053](https://github.com/user-attachments/assets/d1fefcd2-e9a5-4e6d-bf68-3efa51c020ef)
 
 2.Your User ID And Password
-![Screenshot 2024-08-09 160101](https://github.com/user-attachments/assets/3fa93c5f-26f1-4496-a9bf-91426a6fe098)
+![Screenshot 2024-08-09 160101](https://github.com/user-attachments/assets/88b9bf64-1897-4655-a120-9f5062eace9a)
 
 Transaction Details 
-![Screenshot 2024-08-09 160113](https://github.com/user-attachments/assets/ffb34787-5136-4938-83be-51547255dca2)
+![Screenshot 2024-08-09 160113](https://github.com/user-attachments/assets/5a8f2771-b781-489d-9e35-2b2e90996f73)
 
 Deleted A/c Details
-![Screenshot 2024-08-09 160121](https://github.com/user-attachments/assets/18f6937f-e219-45b9-bdd7-1e9f9f3ca119)
+![Screenshot 2024-08-09 160121](https://github.com/user-attachments/assets/61bd7541-9f29-4851-a803-6a6fa77bad72)
 
 Create New A/c
-![Screenshot 2024-08-09 160127](https://github.com/user-attachments/assets/ee8cd831-a7a0-49f1-b6b9-ccb417f95d04)
+![Screenshot 2024-08-09 160127](https://github.com/user-attachments/assets/46a43e82-bb57-421f-8bf7-3e73a2f0c140)
 
 # When Login As A A/c User
-![Screenshot 2024-08-09 160213](https://github.com/user-attachments/assets/1988d88e-62ce-49d0-8c6f-49fc175187d5)
+![Screenshot 2024-08-09 160641](https://github.com/user-attachments/assets/b5ac48a8-47fe-4fa7-a535-c6ab654b4c8f)
 
 # You Have These Some Panels
 1.Home
-![Screenshot 2024-08-09 160223](https://github.com/user-attachments/assets/5c75e437-54cd-41aa-bbac-d4e9e4c2962f)
+![Screenshot 2024-08-09 160223](https://github.com/user-attachments/assets/e2271766-cb27-4bb0-90fe-8eeaf8f0e514)
 
 2.A/c And User Details
-![Screenshot 2024-08-09 160234](https://github.com/user-attachments/assets/8703fc18-987e-4601-a01c-b1099426286c)
+![Screenshot 2024-08-09 160234](https://github.com/user-attachments/assets/a1dc2be6-aa4c-4b7f-9837-3a0f44f59b99)
 
 3.Transaction Details
-![Screenshot 2024-08-09 160242](https://github.com/user-attachments/assets/43a82102-64fc-4e92-bc55-bd6ecab81af4)
+![Screenshot 2024-08-09 160242](https://github.com/user-attachments/assets/b1ffaedf-a754-4bc4-b7a2-ec1adc889e3d)
 
 4.Withdrawal And Deposit Options
-![Screenshot 2024-08-09 160251](https://github.com/user-attachments/assets/a6ac6a8c-c800-4b4b-b341-13903102b4c0)
+![Screenshot 2024-08-09 160251](https://github.com/user-attachments/assets/599fd387-6ea5-4e38-997f-cb5301542d9c)
 
 
  
